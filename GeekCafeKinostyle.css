@@ -1,0 +1,11 @@
+.banner{background-image: url(geekcafeogo.png); height: 570px; text-align: center; background-size: 100% 100%; margin-left: auto; margin-right: auto; width: 570px;}
+.h1main{font-size: 60px;}
+.block{height: 600px; display: flex; margin-left: auto; margin-right: auto; text-align: center; width: 1400px;}
+.block2{height: 350px; width: 300px; margin-left: 215px; margin-top: 60px}
+.h2{font-weight: normal;}
+.button{border: none; background: none; color: red; font-weight: normal;}
+.mleft{margin-left: 50px;}
+.logoup{background-size: 100%; margin-left: 150px; display: flex;}
+.contactus{text-align: center; background-size: 100%;}
+.razmer{width: 50px; height: 50px; margin-top: 10px;}
+.imgfilms{height: 440px; width: 300px;}
